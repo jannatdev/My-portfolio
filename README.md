@@ -7,9 +7,9 @@ A modern, responsive, and professional portfolio website built with Next.js to s
 # 🛠️ Technologies Used
 
 ## Frontend:
--Next.js
--React
--JavaScript (ES6+)
--TypeScript
--Tailwind CSS
--HTML5
+- Next.js
+- React
+- JavaScript (ES6+)
+- TypeScript
+- Tailwind CSS
+- HTML5
