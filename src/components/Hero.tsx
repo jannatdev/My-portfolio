@@ -59,9 +59,7 @@ export default function Hero() {
                 Full-stact  <span className=" text-brand text-[28px]">Web Developer</span>
               </p>
               <p className="mt-5 text-slate-600 max-w-lg leading-relaxed">
-                I am a results-driven digital marketing expert helping brands grow
-                their online presence through strategic mail campaigns, SEO, and
-                performance marketing.
+                I’m a passionate Full-Stack Web Developer who enjoys building modern, responsive, and user-friendly web applications.
               </p>
 
               <div className="mt-8 flex flex-wrap gap-4">

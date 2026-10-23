@@ -31,4 +31,10 @@ A modern, responsive, and professional portfolio website built with Next.js to s
 
 # 🎯 Project Purpose
 
+<<<<<<< HEAD
  The purpose of this portfolio is to establish my professional online presence, demonstrate my full-stack development skills, showcase my completed projects, and connect with potential employers, clients, and fellow developers.
+=======
+ The purpose of this portfolio is to establish my professional online presence, demonstrate my full-stack development skills, showcase my completed projects, and connect with potential employers, clients, and fellow developers.
+
+ 
+>>>>>>> 251aed97f8c928bc6a3410d7314952a6727cadee
